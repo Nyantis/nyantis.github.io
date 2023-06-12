@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.a9560e4a.js",
+    "static/media/eu.png": "/static/media/eu.0dd609e7a01b56d0167d.png",
+    "static/media/minicraft.png": "/static/media/minicraft.717041fb179fc08525bb.png",
+    "index.html": "/index.html",
+    "main.a9560e4a.js.map": "/static/js/main.a9560e4a.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9560e4a.js"
+  ]
+}
